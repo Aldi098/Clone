@@ -31,6 +31,7 @@ $ python clone.py
 ## fungsi
 - [x] cloning akun fb
 - [x] Mode cepat
+- [x] No login yoi
 
 > Salam dari Binjai Janggam lupa subscribe 😂
 
