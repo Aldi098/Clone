@@ -8,7 +8,7 @@
 <p align="center">
  
 ### Menu1
- <img src="https://github.com/Aldi098/PYTHON/blob/main/Screenshot_20211110_132225.jpg" width="440" title="Menu" alt="Menu">
+ <img src="https://github.com/Aldi098/Clone/blob/main/Screenshot_20211112_171856.jpg" width="440" title="Menu" alt="Menu">
 </p>
 
 ### Menu2
