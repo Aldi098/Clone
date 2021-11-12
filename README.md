@@ -24,7 +24,7 @@ $ pkg install git
 $ pip install requests
 $ git clone https://github.com/Aldi098/Clone
 $ cd Clone
-$ python clone.py
+$ python2 clone.py
 
 ```
 
